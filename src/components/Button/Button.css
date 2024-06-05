@@ -1,0 +1,17 @@
+.button-long-text {
+    font-size: 30px;
+    background-color: darkgoldenrod;
+}
+
+.button-long-text:hover {
+    background-color: gold;
+}
+
+.borrar {
+    font-size: 30px;
+    background-color: brown;
+}
+
+.borrar:hover {
+    background-color: red;
+}
